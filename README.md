@@ -1,4 +1,4 @@
-## Password Generator
+## Password Generator (day 5 project)
 
 # Instructions
 
